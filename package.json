@@ -26,7 +26,7 @@
   "dependencies" : {
     "request" : "~2.51.0",
     "buffers" : "~0.1.1",
-    "mime" : "1.2.x"
+    "mime" : "2.4.x"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
